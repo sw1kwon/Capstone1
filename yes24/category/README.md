@@ -6,7 +6,7 @@
 
 ## Files
 - `ctgr_MMDD_HH.csv`: Parent categories
-- `subctgr_MM_DD_HH.csv`: Subcategories
+- `subctgr_MMDD_HH.csv`: Subcategories
 
 ## Schedule
 - Crawled twice daily using an automated scheduler
