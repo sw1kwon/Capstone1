@@ -5,8 +5,8 @@
 - The data includes product counts by category and subcategory, collected every day at 05:15 and 17:15 (KST).
 
 ## Files
-- `ctgr_YYYYMM_DD_HH.csv`: Parent categories
-- `subctgr_YYYYMM_DD_HH.csv`: Subcategories
+- `ctgr_MMDD_HH.csv`: Parent categories
+- `subctgr_MM_DD_HH.csv`: Subcategories
 
 ## Schedule
 - Crawled twice daily using an automated scheduler
