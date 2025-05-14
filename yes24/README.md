@@ -1,3 +1,4 @@
 - yes24 [Domestic Books / IT Mobile] Crawling
   - https://www.yes24.com/Product/Category/Display/001001003
-  - 2025.05.10 ~
+  - autocr.ipynb: 2025.05.10 ~ 2025.05.14
+  - autocr2.ipynb: 2025.05.14 ~
