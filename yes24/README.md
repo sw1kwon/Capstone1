@@ -77,16 +77,23 @@ yes24_32/ \
 - Crawling 1의 폴더별로 책의 세부정보를 parsing 후 csv로 저장
 - Parrelel Processing 활용 X
   - 001001003???.csv (???에는 중분류 번호: 019~032)
-  - 001001003???_log.txt (pasrsing 관련 정보 기록)
+  - 001001003???_log.txt (parsing 관련 정보 기록)
   - yes24_overall_log.txt (전체 실행 관련 정보 기록)
 - Parrelel Processing 활용 O
   - 001001003???_p.csv (???에는 중분류 번호: 019~032)
-  - 001001003???_p_log.txt (pasrsing 관련 정보 기록)
+  - 001001003???_p_log.txt (parsing 관련 정보 기록)
   - yes24_parallel_overall_log.txt (전체 실행 관련 정보 기록)
 ### book_html2
+- Crawling 1의 폴더별로 책의 세부정보를 parsing 후 csv로 저장
+- Parrelel Processing 활용 O
+  - ITM_001001003??.csv (??에는 중분류 번호: 19~32)
+  - yes24_??_log.txt (parsing 관련 정보 기록)
+  - yes24_??_error.txt (parsing 되지 않은 파일 정보 기록)
+  - yes24_overall_log.txt (전체 실행 관련 정보 기록)
 
 ## Appendix
-- yes24 [Domestic Books / IT Mobile] Crawling
-  - https://www.yes24.com/Product/Category/Display/001001003
+### category
+- yes24 IT Mobile Crawling (자동화, Python)
+  - 상세정보: https://github.com/sw1kwon/Capstone1/tree/main/yes24/category#readme 
   - autocr.ipynb: 2025.05.10 ~ 2025.05.14
   - autocr2.ipynb: 2025.05.14 ~
