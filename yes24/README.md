@@ -73,6 +73,8 @@ yes24_32/ \
   - 이를 보완하기 위해 css를 우선 기준으로 하는 Parsing 2를 진행
  
 ## Parsing 2
+- code
+  - https://sw1kwon.github.io/Capstone1Blog/posts/parsing2.html
 ### page_html2
 - Crawling 1의 폴더별로 책의 세부정보를 parsing 후 csv로 저장
 - Parrelel Processing 활용 X
