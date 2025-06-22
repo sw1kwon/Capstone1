@@ -1,0 +1,6 @@
+Scraping started at: 2025-06-21 00:37:44
+Scraping ended at: 2025-06-21 00:38:57
+Elapsed time: 73.57 seconds (1.23)
+Total books collected: 1156
+Total HTML files processed: 10
+
