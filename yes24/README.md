@@ -70,10 +70,19 @@ yes24_32/ \
   - https://sw1kwon.github.io/assets/html/yes24.html
 - 한계
   - parsing을 할 때 일관된 기준이 아니라 css와 xpath를 혼용하여 전처리가 매우 복잡해짐
-  - css를 우선 기준으로 하는 Parsing 2를 진행
+  - 이를 보완하기 위해 css를 우선 기준으로 하는 Parsing 2를 진행
  
 ## Parsing 2
 ### page_html2
+- Crawling 1의 폴더별로 책의 세부정보를 parsing 후 csv로 저장
+- Parrelel Processing 활용 X
+  - 001001003???.csv (???에는 중분류 번호: 019~032)
+  - 001001003???_log.txt (pasrsing 관련 정보 기록)
+  - yes24_overall_log.txt (전체 실행 관련 정보 기록)
+- Parrelel Processing 활용 O
+  - 001001003???_p.csv (???에는 중분류 번호: 019~032)
+  - 001001003???_p_log.txt (pasrsing 관련 정보 기록)
+  - yes24_parallel_overall_log.txt (전체 실행 관련 정보 기록)
 ### book_html2
 
 ## Appendix
