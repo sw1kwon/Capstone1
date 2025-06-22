@@ -1,0 +1,7 @@
+Folder: yes24_30
+Start: 2025-06-22 23:57:13
+End: 2025-06-23 00:14:58
+Elapsed: 1065.79 sec (17.76)
+HTML files processed: 5773
+Books parsed: 5772
+
