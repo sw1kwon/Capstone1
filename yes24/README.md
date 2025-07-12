@@ -98,4 +98,5 @@ yes24_32/ \
 - yes24 IT Mobile Crawling (자동화, Python)
   - 상세정보: https://github.com/sw1kwon/Capstone1/tree/main/yes24/category#readme 
   - autocr.ipynb: 2025.05.10 ~ 2025.05.14
-  - autocr2.ipynb: 2025.05.14 ~
+  - autocr2.ipynb: 2025.05.14 ~ 2025.07.12
+  - autocr3.ipynb: 2025.07.13 ~
